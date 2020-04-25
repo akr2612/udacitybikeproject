@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# csv files
+chicago.csv
+washington.csv
+new_york_city.csv
